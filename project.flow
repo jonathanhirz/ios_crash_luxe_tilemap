@@ -7,7 +7,7 @@
       title:'empty',
       fullscreen:false,
       resizable:true,
-      borderless:false
+      borderless:true
     }
   },
 
